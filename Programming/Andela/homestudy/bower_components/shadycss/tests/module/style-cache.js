@@ -1,0 +1,1 @@
+define(["../../src/style-cache.js"],function(_styleCache){"use strict";_styleCache=babelHelpers.interopRequireDefault(_styleCache);window.StyleCache=_styleCache.default});

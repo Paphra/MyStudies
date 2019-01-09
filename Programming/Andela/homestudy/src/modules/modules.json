@@ -1,0 +1,381 @@
+[
+  {
+    "name": "Integration",
+    "overview": "At Andela, our values can be summarized as EPIC - Excellence, Passion, Integrity, and Collaboration. This module covers the fundamental principles of being EPIC. ",
+    "objectives": ["The Andela principles behind Excellence, Passion, Integrity and Collaboration"],
+    "content":[
+      {
+      "name": "excellence",
+      "title": "Excellence",
+      "link":"content/0/excellence",
+      "source":"andela"
+      },
+      {
+      "name": "passion",
+      "title": "Passion",
+      "link": "content/0/passion",
+      "source":"andela"
+     },
+      {
+      "name": "integrity",
+      "title": "Integrity",
+      "link": "content/0/integrity",
+      "source":"andela"
+     },
+      {
+      "name": "collaboration",
+      "title": "Collaboration",
+      "link": "content/0/collaboration",
+      "source":"andela"
+     },
+      {
+      "name": "growth-mindset",
+      "title": "Growth Mindset",
+      "link": "content/0/growth-mindset",
+      "source":"andela"
+     },
+      {
+      "name": "relationship-building",
+      "title": "Relationship Building",
+      "link": "content/0/relationship-building",
+      "source":"andela"
+     },
+      {
+      "name": "adaptability",
+      "title": "Adaptablity",
+      "link": "content/0/adaptability",
+      "source":"andela"
+     }
+    ]
+  },
+  {
+    "name": "Introduction to Programming",
+    "overview": "In this module, we will introduce basic computer science concepts. We will cover all the areas required to get you to the point of understanding what a computer scientist does.",
+    "objectives": [
+      "What computer science is.",
+      "The core concepts in computer science.",
+      "What programming is.",
+      "Identify basic elements in computer programming."
+    ],
+    "content":[{
+      "name": "intro-to-comp-science",
+      "title": "Computer Science Basics ",
+      "link": "content/1/intro-to-comp-science",
+      "source":"andela"
+    },
+      {
+        "coverage": "1",
+        "name": "programming-basics",
+        "title": "Programming Basics",
+        "link": "content/1/programming-basics"
+      },
+      {
+        "lang": "py",
+        "coverage": "1, 2",
+        "name": "py-python-intro--py",
+        "title": "Introduction to Python",
+        "link": "content/1/py-python-intro--py"
+      },
+      {
+        "lang": "js",
+        "coverage": "1, 2",
+        "name": "js--intro--js",
+        "title": "Introduction to Javascript",
+        "link": "content/1/js--intro--js"
+      }
+    ]
+  },
+  {
+    "name": "Git and Version Control",
+    "overview": "Version control is a way of keeping track of changes to files over time so that you can recall previous versions when needed and also easily work with other teammates collaboratively",
+    "objectives": [
+      "Basic commands that can be executed via the terminal",
+      "What version control is and why it is important",
+      "Know examples of version control systems",
+      "How to use common git commands"
+      ],
+    "content":[
+      {
+        "name": "command-line",
+        "title": "Command Line Basics",
+        "link": "content/2/command-line"
+      },
+      {
+        "name": "version-control",
+        "title": "Version control with Git",
+        "link": "content/2/version-control"
+      }]
+  },
+  {
+    "name": "Winning With People",
+    "overview": "At Andela, we know that effective communication is required for use to succeed so we ask questions, request and give feedback, write professionally, speak to be understood and seek  to understand the message being passed. We act, react and communicate in a manner that demonstrates respect for our co workers, partners, ecosystem. We show an acceptance of the organization's mission and hold ourselves to the highest ethical standard",
+    "objectives": [
+      "Principles of effective communication",
+      "Importance and benefits of seeking feedback",
+      "Approaches for constructively and effectively receiving and giving feedback",
+      "Vital rules of business etiquette",
+      "What ethics is",
+      "Project management tools"
+    ],
+    "content":[
+      {
+        "name": "speaking-to-be-understood",
+        "title": "Speaking to be understood",
+        "link": "content/3/speaking-to-be-understood",
+        "source": "andela"
+      },
+      {
+        "name": "growth-mindset",
+        "title": "Growth Mindset",
+        "link": "content/3/growth-mindset",
+        "source": "andela"
+      },
+      {
+        "name": "learning-how-to-learn",
+        "title": "Learning how to learn",
+        "link": "content/3/learning-how-to-learn",
+        "source": "andela"
+      },
+      {
+        "name": "seeks-feedback",
+        "title": "Seeks Feedback",
+        "link": "content/3/seeks-feedback",
+        "source": "andela"
+      },
+      {
+        "name": "big-picture-thinking",
+        "title": "Big picture thinking",
+        "link": "content/3/big-picture-thinking",
+        "source": "andela"
+      },
+      {
+        "name": "writing-professionally",
+        "title": "Writing Professionally ",
+        "link": "content/3/writing-professionally"
+      },
+      {
+        "name": "project-management",
+        "title": "Project Management Tools",
+        "link": "https://www.pivotaltracker.com/help/articles/quick_start/"
+      },
+      {
+        "name": "problem-solving",
+        "title": "Problem Solving ",
+        "link": "content/3/problem-solving"
+      },
+      {
+        "name": "business-etiquette",
+        "title": "Business Etiquette",
+        "link": "content/3/business-etiquette"
+      },
+      {
+        "name": "asking-questions-and-feedback",
+        "title": "Asking questions and ASK feedback",
+        "link": "content/3/asking-questions-and-feedback"
+      },
+      {
+        "name": "ethics",
+        "title": "Ethics",
+        "link": "content/3/ethics"
+      }
+     ]
+  },
+  {
+    "name": "Object Oriented Programming",
+    "overview":
+      "Object oriented programming is a paradigm and a way of thinking that helps programmers effectively model real-life scenarios. In this module, we will cover general OOP concepts and OOP in Python / JavaScript.",
+    "objectives": [
+      "Object oriented programming concepts, classes and objects.",
+      "Implement object oriented programming concepts in Python / JavaScript."
+    ],
+    "content": [
+      {
+        "coverage": "1",
+        "name": "oop",
+        "title": "What is Object Oriented Programming",
+        "link": "content/4/oop"
+      },
+      {
+        "lang": "py",
+        "coverage": "1, 2",
+        "name": "py-oop--py",
+        "title": "Object Oriented Programming in Python",
+        "link": "content/4/py-oop--py"
+      },
+      {
+        "lang": "js",
+        "coverage": "1, 2",
+        "name": "js-oop--js",
+        "title": "Introducing JavaScript Objects",
+        "link": "content/4/js-oop--js"
+      }
+    ]
+  },
+  {
+    "name": "Data Structures & Algorithms",
+    "overview":
+      "A data structure is a logical concept that introduces a way to organize data so the data can be immediately available to the processor for required calculations. This module will cover ways in which data is stored for efficient search and retrieval.",
+    "objectives": [
+      "What data structures are.",
+      "How data structures are used.",
+      "The different data structure classifications.",
+      "Data structures in Python / JavaScript.",
+      "Principles of algorithms",
+      "Algorithm analysis"
+    ],
+    "content": [
+      {
+        "coverage": "1, 2, 3",
+        "name": "data-structures",
+        "title": "Introduction to Data Structures ",
+        "link": "content/5/data-structures"
+      },
+      {
+        "lang": "py",
+        "coverage": "4",
+        "name": "py-python-data-structures--py",
+        "title": "Python Data Structures ",
+        "link": "content/5/py-python-data-structures--py"
+      },
+      {
+        "lang": "js",
+        "coverage": "4",
+        "name": "js--data-structures--js",
+        "title": "JavaScript Data Structures",
+        "link": "content/5/js--data-structures--js"
+      },
+      {
+        "coverage": "1, 2",
+        "name": "algorithms",
+        "title": "Introduction to Algorithms",
+        "link": "content/5/algorithms"
+      }
+    ]
+  },
+  {
+    "name": "Test Driven Development",
+    "overview": "TDD is a software development process in which one writes tests before writing production code thus giving one an opportunity to think through a systems requirements.",
+    "objectives": [
+      "What tests are",
+      "How to write tests",
+      "How TDD beneficial is to programming",
+      "How to debug"
+      ],
+    "content":[
+      {
+      "name": "tdd",
+      "title": "Introduction to TDD",
+      "link": "content/6/tdd"
+    },
+    {
+      "lang":"py",
+      "name": "py--tdd--py",
+      "title": "TDD in Python",
+      "link": "content/6/py--tdd--py"
+    },
+    {
+      "lang":"js",
+      "name": "js--tdd--js",
+      "title": "TDD in Javascript",
+      "link": "content/6/js--tdd--js"
+    },
+    {
+      "lang":"js",
+      "name": "js--debugging--js",
+      "title": "Debugging in Javascript",
+      "link": "content/6/js--debugging--js"
+    },
+    {
+      "lang":"py",
+      "name": "py--debugging--py",
+      "title": "Debugging in Python",
+      "link": "content/6/py--debugging--py"
+    }
+    ]
+  },
+  {
+    "name": "Databases",
+    "overview": "",
+    "objectives": [
+      "Types of databases that exists (SQL and NoSQL)",
+      "The different types of databases",
+      "How to create a simple SQL database",
+      "Simple SQL queries"
+    ],
+    "content":[{
+      "name": "databases",
+      "title": "Introduction to databases",
+      "link": "content/7/databases"
+    }]
+  },
+  {
+    "name": "Web Programming",
+    "overview":
+      "This module will cover the fundamentals of web programming and technologies used in programming web pages.",
+    "objectives": [
+      "Basics of HTTP.",
+      "Use HTML and CSS to create web pages.",
+      "Use Javascript to create interactive web pages.",
+      "Basics of MVC."
+    ],
+    "content": [
+      {
+      "name": "web-programming",
+      "title": "Introduction to web programming",
+      "link": "content/8/web-programming"
+    },
+      {
+      "name": "web-services",
+      "title": "Http and web services",
+      "link": "content/8/web-services"
+    },
+      {
+      "name": "html-css-practice",
+      "title": "HTML and CSS practical",
+      "link": "https://www.codecademy.com/learn/learn-html"
+    },
+      {
+      "lang":"py",
+      "name": "py--frameworks--py",
+      "title": "Basics of MVC architecture",
+      "link": "content/8/py--frameworks--py"
+    },
+      {
+      "lang":"py",
+      "name": "py--flask--py",
+      "title": "Getting started with flask",
+      "link": "content/8/py--flask--py"
+    },
+      {
+      "name": "intro-to-react",
+      "title": "Introduction to REACT",
+      "link": "content/8/intro-to-react"
+    },
+       {
+      "lang":"js",
+      "name": "js--node--js",
+      "title": "Introduction to NodeJS",
+      "link": "content/8/js--node--js"
+    }
+    ]
+  },
+  {
+    "name": "Introduction to ES6",
+    "overview": "This module introduces the fundamental concepts and new features in ES6(EcmaScript2015).",
+    "objectives": ["Have a basic understanding of the structure of ES6.",
+      "Should be able to adhere to ES6 syntax conventions.",
+      "Should be able to write simple ES6 applications.",
+      "Should be familiar with the new JS features introduced in ES6."],
+    "content":[{
+      "name": "intro-to-js",
+      "title": "Introduction to ES6",
+      "link":"content/9/intro-to-js"
+    },
+      {
+      "name": "first-look-at-js",
+      "title": "A First Look at ES6",
+      "link":"content/9/first-look-at-js"
+    }
+    ]
+  }
+]

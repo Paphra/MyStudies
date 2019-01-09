@@ -1,0 +1,1 @@
+define(["../../src/style-placeholder.js"],function(){"use strict"});

@@ -1,0 +1,1 @@
+define(["../../src/style-info.js"],function(_styleInfo){"use strict";_styleInfo=babelHelpers.interopRequireDefault(_styleInfo);window.StyleInfo=_styleInfo.default});

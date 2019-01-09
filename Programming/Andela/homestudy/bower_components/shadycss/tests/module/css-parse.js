@@ -1,0 +1,1 @@
+define(["../../src/css-parse.js"],function(CssParse){"use strict";CssParse=babelHelpers.interopRequireWildcard(CssParse);window.CssParse=CssParse});

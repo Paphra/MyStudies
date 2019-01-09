@@ -1,0 +1,1 @@
+define(["../../src/style-properties.js"],function(_styleProperties){"use strict";_styleProperties=babelHelpers.interopRequireDefault(_styleProperties);window.StyleProperties=_styleProperties.default});

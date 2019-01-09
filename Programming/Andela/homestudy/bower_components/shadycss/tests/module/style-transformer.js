@@ -1,0 +1,1 @@
+define(["../../src/style-transformer.js"],function(_styleTransformer){"use strict";_styleTransformer=babelHelpers.interopRequireDefault(_styleTransformer);window.StyleTransformer=_styleTransformer.default});

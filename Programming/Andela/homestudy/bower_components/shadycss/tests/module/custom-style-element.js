@@ -1,0 +1,1 @@
+define(["../../examples/custom-style-element.js"],function(){"use strict"});
